@@ -19,7 +19,7 @@
     {
       "id": "book_1783723715162_05o8i",
       "created": "2026-07-10T22:48:35.162Z",
-      "modified": "2026-07-10T22:48:35.163Z",
+      "modified": "2026-07-10T23:12:10.753Z",
       "marc": {
         "110": [
           {
@@ -27,13 +27,11 @@
             "b": "Complejo Plaza del Cielo"
           }
         ],
-        "245": [
-          {
-            "a": "El rastro del Choike",
-            "b": "publicación del Complejo Plaza del Cielo. Un lugar para aprender y jugar con la astronomía",
-            "c": "Esquel [Argentina], Inés Irigoyen, Mariano Kasanetz, Nestor Camino"
-          }
-        ],
+        "245": {
+          "a": "El rastro del Choike",
+          "b": "publicación del Complejo Plaza del Cielo. Un lugar para aprender y jugar con la astronomía",
+          "c": "Esquel [Argentina], Inés Irigoyen, Mariano Kasanetz, Nestor Camino"
+        },
         "250": [
           {
             "a": "1a ed."
@@ -150,35 +148,10 @@
             "a": "Capurro, Silvia"
           }
         ],
-        "852": [
-          {
-            "a": "Biblioteca ISFD 804",
-            "z": "Esquel",
-            "n": "Chubut"
-          }
-        ],
         "856": [
           {
             "n": "Recurso en línea:",
             "u": "https://drive.google.com/file/d/1iH1cdxi1wQ42TmXkB_MVDu8HbSY_SW-z/view"
-          }
-        ],
-        "959": [
-          {
-            "e": "Andrés",
-            "f": "20221207"
-          },
-          {
-            "e": "Andrés",
-            "f": "20221215"
-          },
-          {
-            "e": "Andrés",
-            "f": "20221216"
-          },
-          {
-            "e": "Andrés",
-            "f": "20230311"
           }
         ],
         "LDR": [
@@ -186,29 +159,9 @@
             "a": "020450000000006010004500"
           }
         ],
-        "008": [
-          {
-            "#": "#^aespañol"
-          }
-        ],
-        "002": [
-          {
-            "a": "10112nmm  2200000 a 4500"
-          }
-        ],
-        "001": [
-          {
-            "a": "BNM008155"
-          }
-        ],
         "005": [
           {
             "a": "20230311000000.0"
-          }
-        ],
-        "018": [
-          {
-            "0": "72120s1997    ||||||||||||||000 | spa||"
           }
         ],
         "040": [
@@ -216,7 +169,8 @@
             "a": "AR-U00101E3"
           }
         ]
-      }
+      },
+      "coverPath": "covers/book_1783723715162_05o8i.webp"
     },
     {
       "id": "book_1783723715163_j6s4n",
