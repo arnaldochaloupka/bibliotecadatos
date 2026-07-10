@@ -15866,20 +15866,18 @@
     {
       "id": "book_1783725761765_2p6dm",
       "created": "2026-07-10T23:22:41.765Z",
-      "modified": "2026-07-10T23:22:41.765Z",
+      "modified": "2026-07-10T23:23:35.371Z",
       "marc": {
         "100": [
           {
             "a": "Candia, María Renée"
           }
         ],
-        "245": [
-          {
-            "a": "El cuaderno en la agenda didáctica del jardín de infantes",
-            "c": "Adriana Castro , Fernanda Penas, Silvina Ponzetti",
-            "b": "inscribir el mundo sobre el papel. Trazos de la alfabetización desde la temprana infancia"
-          }
-        ],
+        "245": {
+          "a": "El cuaderno en la agenda didáctica del jardín de infantes",
+          "b": "inscribir el mundo sobre el papel. Trazos de la alfabetización desde la temprana infancia",
+          "c": "Adriana Castro , Fernanda Penas, Silvina Ponzetti"
+        },
         "250": [
           {
             "a": "1a ed."
@@ -15950,13 +15948,6 @@
             "a": "EDUCACION"
           }
         ],
-        "852": [
-          {
-            "a": "Biblioteca ISFD 804",
-            "z": "Esquel",
-            "n": "Chubut"
-          }
-        ],
         "856": [
           {
             "n": "0a5 Años - Noveduc",
@@ -15969,14 +15960,13 @@
             "l": "ANGEL ROJO 266 /",
             "m": "372.3",
             "n": "CAN",
-            "d": "domicilio",
+            "d": "Domicilio",
             "f": "BK"
           }
         ],
-        "959": [
+        "942": [
           {
-            "e": "Andrés",
-            "f": "20220922"
+            "c": "BK"
           }
         ],
         "LDR": [
@@ -15984,39 +15974,24 @@
             "a": "019570000000003970004500"
           }
         ],
-        "008": [
-          {
-            "#": "#^aespañol"
-          }
-        ],
-        "020": [
-          {
-            "a": "978-987-538-924-3"
-          }
-        ],
-        "002": [
-          {
-            "a": "10131nmc  2200000 a 4500"
-          }
-        ],
-        "001": [
-          {
-            "a": "BNM008105"
-          }
-        ],
         "005": [
           {
             "a": "20220922000000.0"
           }
         ],
-        "018": [
+        "008": [
           {
-            "2": "22020s2022    ||||||||||||||000 | spa||"
+            "a": "2026-07-10"
           }
         ],
         "040": [
           {
             "a": "AR-U00101E3"
+          }
+        ],
+        "020": [
+          {
+            "a": "978-987-538-924-3"
           }
         ]
       }
