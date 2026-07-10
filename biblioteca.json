@@ -162,6 +162,422 @@
           }
         ]
       }
+    },
+    {
+      "id": "book_1783723715162_05o8i",
+      "created": "2026-07-10T22:48:35.162Z",
+      "modified": "2026-07-10T22:48:35.163Z",
+      "marc": {
+        "110": [
+          {
+            "a": "Esquel [Argentina]",
+            "b": "Complejo Plaza del Cielo"
+          }
+        ],
+        "245": [
+          {
+            "a": "El rastro del Choike",
+            "b": "publicación del Complejo Plaza del Cielo. Un lugar para aprender y jugar con la astronomía",
+            "c": "Esquel [Argentina], Inés Irigoyen, Mariano Kasanetz, Nestor Camino"
+          }
+        ],
+        "250": [
+          {
+            "a": "1a ed."
+          }
+        ],
+        "260": [
+          {
+            "a": "Esquel [Chubut]",
+            "b": "Silvia V. Capurro",
+            "c": "1997"
+          }
+        ],
+        "300": [
+          {
+            "a": "62 p."
+          }
+        ],
+        "500": [
+          {
+            "a": "Año 1, No 1 [ Marzo/Abril 1997]"
+          }
+        ],
+        "505": [
+          {
+            "t": "Editorial"
+          },
+          {
+            "t": "Equinoccio. Pero ¿Qué es un equinoccio?"
+          },
+          {
+            "t": "Cuento que te cuento. \"La niña que alumbraba la noche\""
+          },
+          {
+            "t": "Eclipse. ¿Qué es un eclipse parcial de luna?"
+          },
+          {
+            "t": "Poesía: Romance de la luna luna"
+          },
+          {
+            "t": "Poesía: Yo digo que las estrellas"
+          },
+          {
+            "t": "Instrumentos de hoy y de siempre"
+          },
+          {
+            "t": "Cómo orientarse mirando el cielo"
+          },
+          {
+            "t": "Para quién quiera ser astrónomo"
+          },
+          {
+            "t": "Salidas y puestas de sol y la luna"
+          }
+        ],
+        "650": [
+          {
+            "a": "ASTRONOMIA"
+          },
+          {
+            "a": "EQUINOCCIO"
+          },
+          {
+            "a": "CUENTOS"
+          },
+          {
+            "a": "ECLIPSE"
+          },
+          {
+            "a": "POESIAS"
+          },
+          {
+            "a": "INSTRUMENTOS ASTRONOMICOS"
+          },
+          {
+            "a": "ESTRELLAS"
+          },
+          {
+            "a": "PUBLICACION PERIODICA"
+          },
+          {
+            "a": "HEMEROTECA"
+          },
+          {
+            "a": "REVISTAS"
+          }
+        ],
+        "653": [
+          {
+            "a": "ECLIPSE DE LUNA"
+          }
+        ],
+        "659": [
+          {
+            "a": "ASTRONOMIA"
+          }
+        ],
+        "700": [
+          {
+            "a": "Irigoyen, Inés"
+          },
+          {
+            "a": "Kasanetz, Mariano"
+          },
+          {
+            "a": "Camino, Nestor"
+          },
+          {
+            "a": "Arrieta, Gabriela"
+          },
+          {
+            "a": "Demarchi, Gabriela"
+          },
+          {
+            "a": "Capurro, Silvia"
+          }
+        ],
+        "852": [
+          {
+            "a": "Biblioteca ISFD 804",
+            "z": "Esquel",
+            "n": "Chubut"
+          }
+        ],
+        "856": [
+          {
+            "n": "Recurso en línea:",
+            "u": "https://drive.google.com/file/d/1iH1cdxi1wQ42TmXkB_MVDu8HbSY_SW-z/view"
+          }
+        ],
+        "959": [
+          {
+            "e": "Andrés",
+            "f": "20221207"
+          },
+          {
+            "e": "Andrés",
+            "f": "20221215"
+          },
+          {
+            "e": "Andrés",
+            "f": "20221216"
+          },
+          {
+            "e": "Andrés",
+            "f": "20230311"
+          }
+        ],
+        "LDR": [
+          {
+            "a": "020450000000006010004500"
+          }
+        ],
+        "008": [
+          {
+            "#": "#^aespañol"
+          }
+        ],
+        "002": [
+          {
+            "a": "10112nmm  2200000 a 4500"
+          }
+        ],
+        "001": [
+          {
+            "a": "BNM008155"
+          }
+        ],
+        "005": [
+          {
+            "a": "20230311000000.0"
+          }
+        ],
+        "018": [
+          {
+            "0": "72120s1997    ||||||||||||||000 | spa||"
+          }
+        ],
+        "040": [
+          {
+            "a": "AR-U00101E3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "book_1783723715163_j6s4n",
+      "created": "2026-07-10T22:48:35.163Z",
+      "modified": "2026-07-10T22:48:35.163Z",
+      "marc": {
+        "110": [
+          {
+            "a": "Esquel [Argentina]",
+            "b": "Complejo Plaza del Cielo"
+          }
+        ],
+        "245": [
+          {
+            "a": "El rastro del Choike",
+            "b": "publicación del Complejo Plaza del Cielo. Un lugar para aprender y jugar con la astronomía",
+            "c": "Esquel [Argentina], Inés Irigoyen, Mariano Kasanetz, Nestor Camino"
+          }
+        ],
+        "250": [
+          {
+            "a": "1a ed."
+          }
+        ],
+        "260": [
+          {
+            "a": "Esquel [Chubut]",
+            "b": "Silvia V. Capurro",
+            "c": "1997"
+          }
+        ],
+        "300": [
+          {
+            "a": "62 p."
+          }
+        ],
+        "500": [
+          {
+            "a": "Año 1, No 2 [ Mayo/Junio 1997]"
+          }
+        ],
+        "505": [
+          {
+            "t": "Editorial"
+          },
+          {
+            "t": "Por donde...."
+          },
+          {
+            "t": "Cuento..."
+          },
+          {
+            "t": "Las preguntas"
+          },
+          {
+            "t": "Noticias"
+          },
+          {
+            "t": "Te pregunto"
+          },
+          {
+            "t": "Abriendo"
+          },
+          {
+            "t": "Libros amigos"
+          },
+          {
+            "t": "Juegos"
+          },
+          {
+            "t": "Orientarse"
+          },
+          {
+            "t": "En órbita"
+          }
+        ],
+        "650": [
+          {
+            "a": "ASTRONOMIA"
+          },
+          {
+            "a": "EQUINOCCIO"
+          },
+          {
+            "a": "CUENTOS"
+          },
+          {
+            "a": "SOL"
+          },
+          {
+            "a": "POESIAS"
+          },
+          {
+            "a": "MAGNETOSFERA"
+          },
+          {
+            "a": "ESTRELLAS"
+          },
+          {
+            "a": "SOLSTICIO"
+          },
+          {
+            "a": "ATMOSFERA"
+          },
+          {
+            "a": "EFECTO INVERNADERO"
+          },
+          {
+            "a": "REVISTAS"
+          },
+          {
+            "a": "PUBLICACION PERIODICA"
+          },
+          {
+            "a": "HEMEROTECA"
+          }
+        ],
+        "653": [
+          {
+            "a": "ECLIPSE DE LUNA"
+          }
+        ],
+        "659": [
+          {
+            "a": "ASTRONOMIA"
+          }
+        ],
+        "700": [
+          {
+            "a": "Irigoyen, Inés"
+          },
+          {
+            "a": "Kasanetz, Mariano"
+          },
+          {
+            "a": "Camino, Nestor"
+          },
+          {
+            "a": "Arrieta, Gabriela"
+          },
+          {
+            "a": "Demarchi, Gabriela"
+          },
+          {
+            "a": "Capurro, Silvia"
+          }
+        ],
+        "852": [
+          {
+            "a": "Biblioteca ISFD 804",
+            "z": "Esquel",
+            "n": "Chubut"
+          }
+        ],
+        "856": [
+          {
+            "n": "Recurso en linea",
+            "u": "https://drive.google.com/file/d/1XhBXsUjc2u5Kch0DfPq4aB-ImbSgR5rs/view"
+          }
+        ],
+        "959": [
+          {
+            "e": "Andrés",
+            "f": "20221207"
+          },
+          {
+            "e": "Andrés",
+            "f": "20221215"
+          },
+          {
+            "e": "Andrés",
+            "f": "20221216"
+          },
+          {
+            "e": "Andrés",
+            "f": "20230311"
+          }
+        ],
+        "LDR": [
+          {
+            "a": "019000000000006490004500"
+          }
+        ],
+        "008": [
+          {
+            "#": "#^aespañol"
+          }
+        ],
+        "002": [
+          {
+            "a": "10092nmm  2200000 a 4500"
+          }
+        ],
+        "001": [
+          {
+            "a": "BNM008156"
+          }
+        ],
+        "005": [
+          {
+            "a": "20230311000000.0"
+          }
+        ],
+        "018": [
+          {
+            "0": "72120s1997    ||||||||||||||000 | spa||"
+          }
+        ],
+        "040": [
+          {
+            "a": "AR-U00101E3"
+          }
+        ]
+      }
     }
   ]
 }
