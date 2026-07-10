@@ -10,5 +10,17 @@
     "fechaDevolucion": "2026-07-24",
     "fechaDevolucionReal": "",
     "estado": "Prestado"
+  },
+  {
+    "id": "pres_1783727319816_rnmg",
+    "usuarioId": "usu_1783727268664_18r2",
+    "usuarioNombre": "Chaloupka, Andrés Arnaldo",
+    "libroId": "book_1783723546796",
+    "libroTitulo": "Libro de prueba",
+    "inventario": "",
+    "fechaPrestamo": "2026-07-10",
+    "fechaDevolucion": "2026-07-24",
+    "fechaDevolucionReal": "",
+    "estado": "Prestado"
   }
 ]
